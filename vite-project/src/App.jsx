@@ -1,9 +1,11 @@
 import React from 'react'
+import Tejaswini from './pages/tejaswini'
 
 function App() {
+
   return (
     <div>
-      hello
+     <Tejaswini/>
     </div>
   )
 }
