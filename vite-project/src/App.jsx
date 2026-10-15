@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Vrushabh from './pages/Vrushabh'
 function App() {
   return (
     <div>
-      hello
+      <Vrushabh/>
     </div>
   )
 }
