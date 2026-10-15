@@ -1,9 +1,11 @@
 import React from 'react'
+import Sujal from '../src/pages/sujal'
 
 function App() {
   return (
     <div>
-      hello
+      <Sujal/>
+
     </div>
   )
 }
