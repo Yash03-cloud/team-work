@@ -1,11 +1,16 @@
 import React from 'react'
 import Tejaswini from './pages/tejaswini'
+import Sujal from '../src/pages/sujal'
+import Yash from './pages/yash'
 
 function App() {
 
   return (
     <div>
-     <Tejaswini/>
+      <Yash/>
+      <Sujal/>
+    
+      <Tejaswini/>
     </div>
   )
 }
